@@ -1,0 +1,1 @@
+Scheduling algortihm in c which uses shortest job first algorithm to execute display the order of the jobs thats to be executed.
